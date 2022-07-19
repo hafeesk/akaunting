@@ -27,7 +27,7 @@ return [
     'yearly'                => 'Anualmente',
     'yearly_pricing'        => 'Facturación anual',
     'monthly_price'         => 'a partir de :price',
-    'per_month'             => 'al mes',
+    'per_month'             => 'por mes',
     'billed_yearly'         => 'Facturado anual',
     'billed_monthly'        => 'Facturado mensual',
     'save_year'             => 'Ahorras <strong>:price</strong> al año!',
